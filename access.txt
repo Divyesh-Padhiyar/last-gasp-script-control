@@ -1,1 +1,1 @@
-ACCEPT
+ALLOW
